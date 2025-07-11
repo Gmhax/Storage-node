@@ -15,7 +15,6 @@ cd ~/0g-storage-node
 ```
 ```
 git reset --hard
-git clean -fd
 ```
 ```
 git fetch --all
