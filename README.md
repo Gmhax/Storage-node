@@ -40,6 +40,7 @@ curl -o $HOME/0g-storage-node/run/config.toml https://vault.astrostake.xyz/testn
 ```
 - Edit miner key & RPC 
 <img width="831" height="299" alt="image" src="https://github.com/user-attachments/assets/eda1f4bc-a30b-4202-af5c-289d7d47e014" />
+
 - RPC
 ```
 https://0g-evm.maouam.nodelab.my.id/
