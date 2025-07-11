@@ -14,10 +14,6 @@ sudo systemctl stop zgs
 cd ~/0g-storage-node
 ```
 ```
-git reset --hard
-git clean -fd
-```
-```
 git fetch --all
 git checkout v1.1.0
 ```
